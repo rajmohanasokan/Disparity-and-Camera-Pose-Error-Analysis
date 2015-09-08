@@ -20,3 +20,9 @@ where A, B, C are the position with respect to the camera center, and theta, psi
 Output: Runtime display of the Relative pose error (averaging the translation component only)
 
 Sample Input: camera_track.txt in Input files folder
+
+Dataset Reference:
+
+Martin Peris Martorell, Atsuto Maki, Sarah Martull, Yasuhiro Ohkawa, Kazuhiro Fukui, "Towards a Simulation Driven Stereo Vision System". ICPR2012, pp.1038-1042, 2012.
+
+Sarah Martull, Martin Peris Martorell, Kazuhiro Fukui, "Realistic CG Stereo Image Dataset with Ground Truth Disparity Maps", ICPR2012 workshop TrakMark2012, pp.40-42, 2012.
